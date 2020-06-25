@@ -18,7 +18,6 @@ except:
 
 def main():
     print("Quote Generator v3")
-    print("Lets give this another shot")
 
     model = -1
 
